@@ -5,6 +5,6 @@ JavaScript calculator with Jasmine Unit Tests to make sure calculations are perf
 
 
 ### Getting the code set up on your computer
-1.Firstly you will need to clone this repository by running `git clone http` command in your terminal.
+1.Firstly you will need to clone this repository by running `git clone https://github.com/baloyijs/calculator-test.git` command in your terminal.
 2. open index.html to start the calculator in your browser
 3. open /jasmine/SpecRunner.html to run Jasmine tests
