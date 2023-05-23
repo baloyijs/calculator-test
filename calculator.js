@@ -169,7 +169,7 @@ function updateDisplay(output) {
     }
 }
 
-// For a little bit of fun when performing your complicated calculations on this amazing Calculator5001e
+// For a little bit of fun when performing your complicated calculations on this Calculator
 // winky smiley face:
 function muchWow() {
     var random_number = Math.floor(Math.random() * 5) + 1
